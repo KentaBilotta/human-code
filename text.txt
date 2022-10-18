@@ -6,3 +6,20 @@ Che barba, che noia, che noia, che barba!
 Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è difficile mettere d’accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce!
 
 SVOLGIMENTO 
+
+START
+
+- se hai tempo per un film, accendi la TV e apri Netflix
+
+IF non sai che film guardare
+    DO
+    - scegli un genere che ti interessa
+    - scegli un film che ti convince
+    WHILE non hai scelto un film
+ELSE
+    - guarda il film
+
+END
+    
+
+
